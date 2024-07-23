@@ -14,7 +14,19 @@ export default function Page() {
               </a>
 
           </li>
-       
+
+          <li>
+              <a href="http://localhost:3000/products-2-react-server-with-promise-and-suspense">
+                clip 7 demo - server component only with no state
+              </a>
+          </li>
+          
+          <li>
+                <a href="http://localhost:3000/products-3-client-only-with-suspense">
+                  clip 7 demo - client component only with no state
+                </a>
+          </li>
+
       </ul>
     </div>
   );
